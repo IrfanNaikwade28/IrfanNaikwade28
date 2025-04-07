@@ -1,67 +1,90 @@
-<!-- Header with custom vibe -->
+
+<!-- README.md for IrfanNaikwade28 -->
+
+<h1 align="center">Hey there! 👋 I'm Irfan</h1>
+<h3 align="center">Web Developer • UI Designer • Tech Explorer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B+I'm+Irfan+Naikwade;Full-stack+Developer+%F0%9F%9A%80;React+%7C+Django+%7C+Blockchain+Lover" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" alt="developer-gif"/>
 </p>
 
 ---
 
-### 🌍 About Me
+> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
 
-```js
-const irfan = {
-  code: ['Python', 'JavaScript', 'Solidity'],
-  tools: ['React', 'Django', 'Tailwind', 'PostgreSQL', 'Git'],
-  learning: ['Blockchain', 'Smart Contracts'],
-  hobbies: ['♟️ Chess', '📖 Reading', '🎧 Music'],
-  website: 'https://irfan-devs.vercel.app/',
-  quote: 'Code. Build. Learn. Repeat.'
-}
+---
+
+### 🧠 About Me
+🎓 I'm a passionate developer currently pursuing a B.Tech in Data Science.<br>
+🎨 I blend code with creativity to build user-centered digital experiences.<br>
+🧩 Whether it's frontend magic or backend logic – I enjoy crafting seamless solutions.
+
+---
+
+### 🛠 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nextjs,nodejs,html,css,figma,mongodb,python,cpp" />
+</p>
+
+---
+
+### 📊 My Skill Vibes
+
+```text
+JavaScript     ████████████████░░░░░ 80%
+React          ██████████████░░░░░░ 70%
+Tailwind CSS   ██████████████░░░░░░ 70%
+Next.js        ████████████░░░░░░░░ 60%
+Node.js        ███████████░░░░░░░░░ 55%
+MongoDB        ██████████░░░░░░░░░░ 50%
+Figma          ██████████░░░░░░░░░░ 50%
+Python         █████████░░░░░░░░░░░ 45%
+C/C++          █████████░░░░░░░░░░░ 45%
 ```
 
 ---
 
-### 🛠️ Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,django,python,js,solidity,postman,git,github,vscode,postgres" />
-</p>
-
----
-
-### 📈 GitHub Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfannaikwade&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfannaikwade&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfannaikwade&layout=compact&theme=tokyonight" />
-</p>
+### 🔍 What I Do
+- 🔧 I build **dynamic** & **responsive** websites.
+- 🎯 Focused on **UI/UX**, smooth **interactions**, and clean **code**.
+- 💡 Constantly learning and experimenting.
 
 ---
 
-### ✨ Dev Quote of the Moment
+### 📫 Let’s Connect
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### 📬 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/irfan-naikwade">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/irfan-naikwade" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://irfan-devs.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://github.com/IrfanNaikwade28" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.chess.com/member/irfannaikwade28">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chess.com&logoColor=white" />
+  <a href="https://irfan-devs.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23726CEB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.chess.com/member/irfannaikwade28" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-313131?style=for-the-badge&logo=chess-dot-com&logoColor=white" />
   </a>
 </p>
 
 ---
 
+### 🧩 Fun Fact
+
+> I see coding as both **logic & art** – blending colors, flow, and ideas into beautiful UIs 🖌️
+
+---
+
+### 🔥 GitHub Streaks & Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irfannaikwade&label=Profile+Views&color=blue&style=flat-square" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IrfanNaikwade28&theme=radical&hide_border=true" alt="GitHub streak"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanNaikwade28&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+---
+
+<h4 align="center">Built with 💙 passion & caffeine ☕</h4>
