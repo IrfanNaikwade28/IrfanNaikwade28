@@ -1,7 +1,7 @@
 <!-- README.md for IrfanNaikwade28 -->
 
 <h1 align="center">Hey 👋 I'm Irfan</h1>
-<h3 align="center">Frontend Wizard • UI Enthusiast</h3>
+<h3 align="center">Web Developer • UI Designer • Tech Explorer</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IrfanNaikwade28/IrfanNaikwade28/main/assets/hero-dev.gif" width="220" alt="developer" />
