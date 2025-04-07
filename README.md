@@ -1,69 +1,71 @@
 <!-- README.md for IrfanNaikwade28 -->
 
-<h1 align="center">Hey 👋, I'm Irfan</h1>
-<h3 align="center">Web Developer • UI Designer • Tech Explorer</h3>
+<h1 align="center">Hey 👋 I'm Irfan</h1>
+<h3 align="center">Frontend Wizard • UI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IrfanNaikwade28/IrfanNaikwade28/main/assets/hero-dev.gif" width="250" alt="dev-gif" />
+  <img src="https://raw.githubusercontent.com/IrfanNaikwade28/IrfanNaikwade28/main/assets/hero-dev.gif" width="220" alt="developer" />
 </p>
 
 ---
 
-> "First, solve the problem. Then, write the code." – *John Johnson*  
-> "Design is not just what it looks like and feels like. Design is how it works." – *Steve Jobs*
+<p align="center"><i>"Design is not just what it looks like and feels like. Design is how it works."</i></p>
 
 ---
 
-### ✨ About Me
-- 🎓 B.Tech Data Science student with a creative edge.
-- 💻 Passionate about clean, functional development.
-- 🌐 Turning ideas into intuitive user experiences.
-- 🧠 Always learning, always building.
+### 🧠 Who Am I?
+
+- 🎓 B.Tech Data Science student with a creative soul  
+- 💻 Passionate about building clean, functional user interfaces  
+- 🧪 Love experimenting with modern web tools and smooth interactions  
+- 🚀 Always growing, one commit at a time
 
 ---
 
-### 🧰 My Dev Toolbox
+### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,nodejs,html,css,figma,python,mongodb,cpp" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,html,css,figma,mongodb,python,cpp" />
 </p>
 
 ---
 
 ### ⚡ What I Build
-- 💥 Interactive frontends with modern frameworks.
-- ✨ Polished UI/UX with seamless animations.
-- 📦 Full-stack features with real-world logic.
-- 🛠️ Mini tools, creative projects & side hacks.
+
+- 🎯 Clean, modern web interfaces with React & Tailwind  
+- ✨ Polished, responsive UIs that *feel* good to use  
+- 🧩 Mini tools, creative projects & purposeful side hacks  
+- 🔁 Real-world logic with backend integration
 
 ---
 
-### 🔗 Let's Connect
+### 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/irfan-naikwade" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/IrfanNaikwade28" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://irfan-devs.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.chess.com/member/irfannaikwade28" target="_blank">
-    <img src="https://img.shields.io/badge/-Chess.com-2C2C2C?style=for-the-badge&logo=chess-dot-com&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chess.com-2C2C2C?style=for-the-badge&logo=chess-dot-com&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### 🎯 Fun Fact
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IrfanNaikwade28/IrfanNaikwade28/main/assets/working-dev.gif" width="280" />
+  <img src="https://raw.githubusercontent.com/IrfanNaikwade28/IrfanNaikwade28/main/assets/working-dev.gif" width="260" />
 </p>
 
-> I believe great UIs are not just built—they're crafted. Every pixel, every hover, every line of code has a story.
+> I don't just write code — I craft experiences. Every pixel, every click, every line of logic... it matters.
 
 ---
 
-<h4 align="center">Built with Passion ❤️</h4>
+<h4 align="center">✨ Built with Passion ✨</h4>
