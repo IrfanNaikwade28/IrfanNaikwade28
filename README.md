@@ -1,7 +1,7 @@
 <!-- README.md for IrfanNaikwade28 -->
 
 <h1 align="center">Hey 👋, I'm Irfan</h1>
-<h3 align="center">Frontend Wizard • UI Enthusiast • Code Artist 🎨</h3>
+<h3 align="center">Web Developer • UI Designer • Tech Explorer</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IrfanNaikwade28/IrfanNaikwade28/main/assets/hero-dev.gif" width="250" alt="dev-gif" />
@@ -16,7 +16,7 @@
 
 ### ✨ About Me
 - 🎓 B.Tech Data Science student with a creative edge.
-- 💻 Developer by logic, Designer by passion.
+- 💻 Passionate about clean, functional development.
 - 🌐 Turning ideas into intuitive user experiences.
 - 🧠 Always learning, always building.
 
