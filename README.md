@@ -21,48 +21,35 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,nodejs,express,django,fastapi,mongodb,postgresql,git,github,linux,docker,redis" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,nodejs,express,django,fastapi,mongodb,postgresql,linux,docker,redis" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 💡 Areas of Interest
 
-#### 🚚 RouteX
-Real-time delivery management platform supporting parcel tracking, driver assignment, REST APIs, and WebSocket-powered updates.
-
-#### 🏙️ CityFlow
-Smart civic issue management platform with workflow automation, issue tracking, and AI-powered classification.
-
-#### 🤖 MarketMindAI
-Multi-agent AI platform that automates marketing workflows using collaborating AI agents and LLM APIs.
-
----
-
-### 📈 Currently Learning
-
-- Data Structures & Algorithms
-- System Design
 - Software Engineering
 - Backend Development
+- Full-Stack Development
+- Distributed Systems
 - AI-Powered Applications
 
 ---
 
-### 🔗 Connect With Me
+### 🏆 Highlights
+
+- 🥇 First Prize — Mega Project Competition (Software System Implementation)
+- 🚀 Top 6 — GTT Data Solutions Solo Hackathon 2025
+- 💼 Full Stack Developer Intern at StormSoft Technologies
+- 🎓 B.Tech Data Science (Batch 2027)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/irfan-naikwade" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/IrfanNaikwade28" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://irfannaikwade.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IrfanNaikwade28&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanNaikwade28&layout=compact&theme=transparent" />
 </p>
 
 ---
