@@ -45,11 +45,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Contribution Graph
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IrfanNaikwade28&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanNaikwade28&layout=compact&theme=transparent" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrfanNaikwade28&theme=github-dark&hide_border=true" />
 </p>
 
 ---
