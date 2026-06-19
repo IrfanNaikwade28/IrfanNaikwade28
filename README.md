@@ -45,10 +45,10 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrfanNaikwade28&theme=github-dark&hide_border=true" />
+  <img src="https://ghchart.rshah.org/IrfanNaikwade28" alt="Irfan Naikwade Github chart" />
 </p>
 
 ---
