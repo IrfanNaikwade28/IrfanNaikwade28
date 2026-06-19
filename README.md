@@ -45,10 +45,10 @@
 
 ---
 
-### 📈 Contribution Calendar
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/IrfanNaikwade28" alt="Irfan Naikwade Github chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrfanNaikwade28&theme=github_dark" />
 </p>
 
 ---
